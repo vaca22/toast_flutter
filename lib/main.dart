@@ -64,7 +64,7 @@ class _MyHomePageState extends State<MyHomePage> {
           toastLength: Toast.LENGTH_SHORT,
           gravity: ToastGravity.CENTER,
           timeInSecForIosWeb: 1,
-          backgroundColor:  Color(0x80000000),
+          backgroundColor:  Color(0xa0000000),
           textColor: Colors.white,
           fontSize: 16.0
       );
